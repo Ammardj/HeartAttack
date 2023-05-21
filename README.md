@@ -1,2 +1,2 @@
 # HeartAttack
-Factors that impact price negotiations during the process of purchasing a house
+Predict the risk of a heart attack using machine learning algorithms.
